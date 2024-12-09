@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rushils4
-- 👀 I’m interested in ... Pure Mathematics, Philosophy, Robotics, AI, Machine Learning, Computer Hardware, UI/UX, Graphic Design
+- 👀 I’m interested in ... Robotics, AI, Machine Learning, Computer Hardware, Pure Mathematics, Philosophy, Graphic Design
 - 📫 How to reach me ... rushils4@illinois.edu | www.linkedin.com/in/shahrushil520
 
 <!---
